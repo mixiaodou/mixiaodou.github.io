@@ -59,7 +59,7 @@ postPatterns: 'food'
 sns:
   #weibo: '//weibo.com/lovecolcol'
   weibo: '//blog.csdn.net/zxwd2015'
-  juejin: '//www.jianshu.com/u/8e994d48118c'
+  jianshu: '//www.jianshu.com/u/8e994d48118c'
   #instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/mixiaodou'
 
