@@ -60,7 +60,7 @@ sns:
   csdn: '//blog.csdn.net/zxwd2015'
   juejin: '//www.jianshu.com/u/8e994d48118c'
   #instagram: '//www.instagram.com/steveliaocn'
-  #github: '//github.com/mixiaodou'
+  github: '//github.com/mixiaodou'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
